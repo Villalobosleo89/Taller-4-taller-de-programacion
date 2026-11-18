@@ -1,8 +1,7 @@
-================================================================
 TALLER DE PROGRAMACION ORIENTADA A OBJETOS - SISTEMA DE RESERVAS
 Leonardo Alexander Villalobos Patino
 Ingenieria de Software - Universidad Manuela Beltran
-================================================================
+
 
 CONTENIDO DEL PAQUETE
 ---------------------
